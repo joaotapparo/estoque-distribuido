@@ -4,7 +4,7 @@ Essa aplicação consiste em uma implementação simples do protocolo RabbitMQ p
 ## Requisitos para rodar a aplicação
 - Javascript   
 - Node.js
-- RabbitMQ (recomenda-se o uso do Chocolatery para realizar a instalação do RabbitMQ)
+- RabbitMQ
 - Biblioteca amqplib para fazer o uso do protocolo RabbitMQ com Javascript
 
 ## Como utilizar a aplicação
