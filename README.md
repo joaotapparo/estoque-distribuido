@@ -9,3 +9,5 @@ Essa aplicação consiste em uma implementação simples do protocolo RabbitMQ p
 
 ## Como utilizar a aplicação
 Ao realizar o clone deste repositório, abra dois terminais com o local onde o repositório foi clonado. Depois, execute o comando `node .\services\estoqueLojaA.js` e você verá uma mensagem sendo enviada para outro terminal. Você pode executar o comando `node .\services\estoqueLojaB.js` para enviar uma mensagem para o terminal oposto.
+## Vídeo demonstrativo
+Segue um link com um vídeo demonstrativo da aplicação funcionando: https://www.youtube.com/watch?v=v03dPUgpb8M
